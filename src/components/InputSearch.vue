@@ -29,7 +29,7 @@ class="btn btn-outline-secondary"
 type="button"
 @click="submit"
 >
-<i class="fas fa-search"></i> Tìm kiếm
+<i ></i> Tìm kiếm
 </button>
 </div>
 </div>
